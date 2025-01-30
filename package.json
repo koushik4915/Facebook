@@ -1,4 +1,5 @@
 {
+  "homepage":"https://koushik4915.github.io/Facebook",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -18,7 +19,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "gh-pages -d build -r https://github.com/koushik4915/Facebook.git"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
